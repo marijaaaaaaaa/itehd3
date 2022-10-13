@@ -18,7 +18,6 @@
                     <input type="password" name="password" class="form-control" required>
                     <button type="submit" class="btn btn-primary" name="submit">Prijavi se</button>
                 </div>
-
             </form>
         </div>
 
